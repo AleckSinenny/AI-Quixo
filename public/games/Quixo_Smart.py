@@ -200,10 +200,7 @@ class Server:
         else : 
             cube = basic(rdmcube) # Joue neutre
         #  Faire une liste ave c NT si liste == 0 alors on prend les X 
-               
- 
-            
-            
+        
 
        
         ############
